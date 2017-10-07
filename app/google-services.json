@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "231327675606",
+    "firebase_url": "https://ilabamo-db071.firebaseio.com",
+    "project_id": "ilabamo-db071",
+    "storage_bucket": "ilabamo-db071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231327675606:android:21aee5b04cbf603c",
+        "android_client_info": {
+          "package_name": "com.martinez.dyim.pointofsale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231327675606-lsh7i5a1hpechi9r8bu45anmds447dqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NcF4i2_2vgXsXRReBLncv7exy70AtVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
